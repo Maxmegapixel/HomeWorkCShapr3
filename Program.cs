@@ -1,17 +1,17 @@
-﻿// Задача 19
-// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом(первое == последнему, второе == предпоследнему).
-// 14212 -> нет
-// 12821 -> да
-// 23432 -> да
+﻿// Задача 21
+// Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+// A (3,6,8); B (2,1,-7), -> 15.84
+// A (7,-5, 0); B (1,-1,9) -> 11.53
 
-Console.WriteLine("Введите пятизначное число: ");
-string StNum = Console.ReadLine()!;
-int IntNum = Convert.ToInt32(StNum);
+Console.WriteLine("Введите координаты первой точки: ");
+int AX = int.Parse(Console.ReadLine()!);
+int AY = int.Parse(Console.ReadLine()!);
+int AZ = int.Parse(Console.ReadLine()!);
 
-if(IntNum<10000 || IntNum >99999) Console.WriteLine($"Число {StNum} не пятизначное");
-else 
-{
-    if (StNum[0] == StNum[4] && StNum[1] == StNum[3]) Console.WriteLine($"Число {StNum} является полиндромом");
-    else Console.WriteLine($"Число {StNum} не является полиндромом");
-}
+Console.WriteLine("Введите координаты второй точки: ");
+int BX = int.Parse(Console.ReadLine()!);
+int BY = int.Parse(Console.ReadLine()!);
+int BZ = int.Parse(Console.ReadLine()!);
 
+double AB = Math.Sqrt(Math.Pow(AX-BX,2) + Math.Pow(AY-BY, 2) + Math.Pow(AZ-BZ, 2));
+Console.WriteLine($"Расстояние: {AB:f2}");
