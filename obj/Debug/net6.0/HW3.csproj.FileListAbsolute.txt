@@ -1,0 +1,15 @@
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\bin\Debug\net6.0\HW3.exe
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\bin\Debug\net6.0\HW3.deps.json
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\bin\Debug\net6.0\HW3.runtimeconfig.json
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\bin\Debug\net6.0\HW3.dll
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\bin\Debug\net6.0\HW3.pdb
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.csproj.AssemblyReference.cache
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.AssemblyInfoInputs.cache
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.AssemblyInfo.cs
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.csproj.CoreCompileInputs.cache
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.dll
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\refint\HW3.dll
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.pdb
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\HW3.genruntimeconfig.cache
+E:\e,yekcz\4. Знакомство с яз пр\practic\HW3\obj\Debug\net6.0\ref\HW3.dll

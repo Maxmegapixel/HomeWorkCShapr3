@@ -1,14 +1,3 @@
-﻿// Задача 23
-// Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-// 3 -> 1, 8, 27
-// 5 -> 1, 8, 27, 64, 125
-
-Console.Write("Введите число: ");
-int Num = int.Parse(Console.ReadLine()!);
-int I = 1;
-while (I <= Num) 
-{
-    
-    Console.WriteLine(Math.Pow(I, 3));
-    I++;
-}
+﻿// Задача 1 ==> git checkout a7ca
+// Задача 2 ==> git checkout dcaf
+// Задача 3 ==> git checkout 9212
